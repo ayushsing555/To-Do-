@@ -1,0 +1,35 @@
+input{
+    height:40px;
+    width:500px;
+    border: none;
+    border-radius: 10px;
+}
+button{
+    background-color: red;
+    height: 40px;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+}
+body{
+    background-color: rgb(0, 0, 0);
+}
+h1{
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.section{
+    color: yellow;
+    
+}
+h2{
+    color: red;
+}
+#image{
+    width:400px;
+    height: 400px;
+    margin-top:15px;
+}
+#sun{
+    margin-left: 1210px;
+}
